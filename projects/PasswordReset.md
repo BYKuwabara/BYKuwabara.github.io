@@ -14,4 +14,4 @@ PasswordReset is a java program that takes "ICS111" as the default password, the
 
 For this project, I was the lead programmer and only programmer responsible for creating this program. I started with creating the necessary variables that would hold the default password, new password, and retyped new password. I utilized the Scanner class to receive input from the user. I then used a bunch of nested if statements to check the password for the necessary qualities. 
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can learn more here [Github Repo](https://github.com/BYKuwabara/Projects/blob/main/PasswordReset.java).
