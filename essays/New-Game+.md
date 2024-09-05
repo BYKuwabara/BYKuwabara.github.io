@@ -21,7 +21,7 @@ Prior to learning Typescript, I have experience, or in terms of the analogy, com
 
 Compared to other languages like C, and C++, Typescript is much more dynamic and easier to implement. It’s not like python, where the syntax looks like pseudocode, but there are a multitude of functions and data structures in it that make coding a lot less of a headache. For example, implicit variables let Typescript infer what data-type a certain variable should be based on its initialization. Therefore, if you forgot to declare a type for a variable, Typescript would infer the data-type and not throw an error for a non-type variable. Typescript also has neat data structures like tuples—fixed arrays with known element types. This means that the first element could be a string, then the second element could be a number. 
 
-<img width="400px" class="rounded float-start pe-4" src="../img/new-game-img.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/stairs.jpg">
 
 ## A New Boss?!
 
