@@ -7,6 +7,8 @@ date: 2024-09-04
 published: true
 labels:
   - Computer Science
+  - Typescript
+  - Athletic Software Engineering
 ---
 
 <img width="400px" class="rounded float-start pe-4" src="../img/new-game-img.jpg">
