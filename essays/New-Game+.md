@@ -13,6 +13,8 @@ labels:
 
 <img width="400px" class="rounded float-start pe-4" src="../img/new-game-img.jpg">
 
+## Press "Start"
+
 The term “New Game+”, or, “NG+” is an option in Souls Bourne games—RPG, often open world games—created by the video game company FromSoftware that allows players to complete another play-through of the game at enhanced difficulty, but players can keep the equipment and levels they have earned in their first play-through. That would be the analogy I would use to describe my experience with learning Typescript. 
 
 ## A New Play-through
