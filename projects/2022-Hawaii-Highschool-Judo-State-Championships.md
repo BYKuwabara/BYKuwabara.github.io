@@ -9,7 +9,6 @@ labels:
   - Judo
 summary: "My journey to the Hawaii HighSchool Judo State Championship."
 ---
-
 <img class="img-fluid" src="../img/hawaii-judo-podium.HEIC">
 
 In 2022 of my senior year in highschool, I made it a goal to win my weight class of 121 lbs at the Hawaii HighSchool Judo State Championships. In order to do so, I had to fight and win my matches in the team tournaments which took place every saturday for two or so months. After doing so, I competed in the Eastern OIA and took 1st place, which seeded my ranking high. Then, I became OIA Champ for the 121 lbs boys weightclass. After a week of preparation and 4 hard fights to the top, I won 1st place in the state in judo at 121 lbs. 
