@@ -10,7 +10,7 @@ labels:
   - Eclipse
 summary: "PasswordReset is a java program that I created in my ICS 111 class."
 ---
-<img class="img-fluid" src="../img/passwordreset.png" width=250px height=200px>
+<img class="img-fluid" src="../img/passwordreset.png" width=500px height=300px>
 
 PasswordReset is a java program that takes "ICS111" as the default password, then allows the user to reset the password to a new one. The new password must contain certain qualities such as 6 or more characters, no spaces, and contain the characters !, $, or ?. The program will ask the user to retype the new password, ensure they match, then set the new password. 
 
