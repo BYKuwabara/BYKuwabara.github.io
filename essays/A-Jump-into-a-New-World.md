@@ -4,7 +4,7 @@ type: essay
 title: "A Jump into a New World"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-10
-published: false
+published: true
 labels:
   - Computer Science
   - About me
