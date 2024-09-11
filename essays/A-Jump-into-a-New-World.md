@@ -10,7 +10,7 @@ labels:
   - About me
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/brain.jpg">
 
 ## A New World
 
