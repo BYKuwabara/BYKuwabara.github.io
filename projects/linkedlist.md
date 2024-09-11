@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/passwordimg.webp
+image: img/linkedlist-icon.png
 title: "Sorted Linked List"
 date: 2022
 published: true
@@ -10,7 +10,7 @@ labels:
   - Eclipse
 summary: "Sorted Linked list is a java program that I created in my ICS 211 class."
 ---
-<img class="img-fluid" src="../img/passwordreset.png" width=500px height=300px>
+<img class="img-fluid" src="../img/linkedlist-ss.png>
 
 Sorted Linked list is a java program that implements the Linked list class and its basic functions without implementing the actual Linked list class in the java library. There is a add function, remove function, size function, toString function, indexOf function, get function, and a checkInvariants function. Additionally, When new items are added into the linked list, it is automatically sorted. 
 
