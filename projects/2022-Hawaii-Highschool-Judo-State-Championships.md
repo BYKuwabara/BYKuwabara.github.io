@@ -4,7 +4,7 @@ type: project
 image: img/hawaii-judo-icon.png
 title: "2022 Hawaii HighSchool Judo State Championships"
 date: 2022
-published: true
+published: false
 labels:
   - Judo
 summary: "My journey to the Hawaii HighSchool Judo State Championship."
