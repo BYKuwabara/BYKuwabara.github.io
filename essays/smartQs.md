@@ -11,7 +11,7 @@ labels:
   - Stack Overflow
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/new-game-img.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/smart_qs.jpg">
 
 
 Effective communication is an essential skill that all software engineers must have in order to be successful, and understanding how to ask “smart” questions plays a critical role in this process. Eric Raymond’s essay, How to Ask Questions the Smart Way, highlights the qualities of a “smart” question while warning us of the dangers of asking questions that lack substance. For software engineers, mastering the art of asking questions not only improves their own problem-solving abilities but also helps to create a collaborative environment. This essay will discuss the difference in structure and content between “smart” and “not smart” questions. Additionally, the consequences that result from a poorly asked question. We will examine real examples of “smart” and “not smart” questions from the open-source software community StackOverflow, then analyze what makes the questions “smart” and vice versa. Through these examples, we will observe how adherence to Raymond's guidelines leads to more productive discussions and efficient problem resolution, while ignoring these guidelines results in confusion and frustration.
