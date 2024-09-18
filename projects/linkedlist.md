@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/linkedlist-corrected.png
 title: "Sorted Linked List"
-date: 2022
+date: 2023
 published: true
 labels:
   - Java
