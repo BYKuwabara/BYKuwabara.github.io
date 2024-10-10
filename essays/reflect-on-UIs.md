@@ -12,7 +12,7 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="100px" height="100px" class="float-start" src="../img/islandsnow.jpeg">
+<img width="600px" height="400px" class="float-start" src="../img/islandsnow.jpeg">
 
 Web development is an essential part of software engineering as websites make up more than 90% of the internet. We get our information from websites, purchase products from websites, receive entertainment from websites, etc. Websites are a big part of our daily lives as we almost never go a day without using one. As a result, this emphasizes the importance of building them. Creating websites from raw HTML and CSS is very difficult as each element on the web page has to be carefully designed. This includes text size, font, font-weight, margins, padding, border, color, and so much more. With how meticulous web design can get, developers introduced UI frameworks. 
 
