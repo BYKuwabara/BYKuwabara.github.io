@@ -10,7 +10,7 @@ labels:
   - Next.js
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/storm-ocean.jpg">
 
 ## The Dangers of the Ocean
 
