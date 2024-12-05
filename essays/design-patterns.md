@@ -10,9 +10,9 @@ labels:
   - Next.js
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/storm-ocean.jpg">
-
 ## The Dangers of the Ocean
+
+<img width="300px" class="rounded float-start pe-4" src="../img/storm-ocean.jpg">
 
 Software development is like an ocean. It is vast, and seems endless when gazing at the horizon. The waves, winds, and storms can be merciless, sinking your ship and leaving you stranded with no sense of direction. Without a map to navigate this ocean or inform you about the dangers of the ocean, getting to your destination, much less surviving, would be close to impossible. Design patterns are the compass and your guide for your journey—a set of tools and strategies that help programmers carve a clear path through the treacherous waters of coding in the most efficient way. They are the blueprints to your house, or the foundation of your application design. Put simply, design patterns are reusable solutions to recurring problems in software design. These designs are not for specific issues, but are templates that can be altered to several different situations. These designs are a collection of solutions from experienced software developers placed into accessible frameworks, allowing developers to solve problems in a consistent manner. 
 
