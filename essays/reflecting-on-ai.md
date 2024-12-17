@@ -10,7 +10,7 @@ labels:
   - Artificial Intelligence
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/Ai_image.webp">
 
 ## The role of AI in Software Engineering
 AI has had an immense impact in education, especially in the field of software engineering. A tool that can return a direct and concise answer to any question is an invaluable resource to web/app developers. Considering the fact that there are hundreds of different coding languages, algorithms, and frameworks, all with unique functions and syntax that are specific to their language, AI tools save us time and effort in understanding and implementing code. Rather than searching through countless pages of documentation to find a function, which often leads down rabbit holes of other related functions, or searching hundreds of lines of code for that one error, which may be logical or syntactical, AI can solve that issue in a matter of seconds. Throughout my journey in ICS 314, software engineering, I have utilized these AI tools, specifically ChatGPT and GithubCopilot. Both of these AIs have not only aided in my completion of ICS 314, but has led me to a greater understanding in programming.
