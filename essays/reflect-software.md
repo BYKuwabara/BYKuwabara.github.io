@@ -12,7 +12,7 @@ labels:
   - Project Management
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/software_engineering.jpg">
 
 ## Much more than meets the eye
 
