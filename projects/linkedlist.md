@@ -4,7 +4,7 @@ type: project
 image: img/linkedlist-corrected.png
 title: "Sorted Linked List"
 date: 2023
-published: true
+published: false
 labels:
   - Java
   - Eclipse
