@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/manoa-menu.png
+image: img/manoa-menu-big.png
 title: "Manoa Menu"
 date: 2024
 published: true
@@ -20,5 +20,5 @@ Manoa Menu is a website my team and I created for our final project for ICS 314.
 
 In this project, I was responsible for the Campus Cravings page and some frontend aspects of the navbar. The Campus Cravings page fetches data from our database, sorts the items by most liked at the top, and displays the food item name, the image, the location, and attributes. 
 
-Click on this link to visit our : <a href="https://manoa-menu.github.io/">Github.io page</a>
-Click on this link to visit our : <a href="https://manoa-menu.vercel.app/">landing page</a>
+Click on this link to visit our <a href="https://manoa-menu.github.io/">Github.io page</a>
+Click on this link to visit our <a href="https://manoa-menu.vercel.app/">landing page</a>
