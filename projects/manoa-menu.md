@@ -9,16 +9,18 @@ labels:
   - Website
   - Typescript
   - React/Bootstrap
+  - Nextjs
 summary: "Menu translations for international students at The University of Hawaii at Manoa"
 ---
 
 <img class="img-fluid" src="../img/manoa-menu.png">
-
+<hr>
 Manoa Menu is a website my team and I created for our final project for ICS 314. It has a landing page/home page that displays the features of the website. A Menu page that displays the menu for Hale Aloha, Gateway Cafe, and Campus Center Food Court. These menus have a dropdown menu for translations in other languages for international students. The menu also has a star component for logged-in users, which allows users the ability to click and like their favorite meals. 
 <hr>
 <img class="img-fluid" src="../img/menu.png">
 <hr>
 The Campus Cravings page shows the most popular food items among the three food cafes, showing the amount of likes, location, and attributes. The most popular items are filtered to the top of the page. 
+<hr>
 <img class="img-fluid" src="../img/campus-cravings.png">
 <hr>
 The location page shows the location of each food court, with google map directions if needed.
